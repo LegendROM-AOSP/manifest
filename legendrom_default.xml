@@ -13,7 +13,7 @@
            sync-c="true"
            sync-j="8" />
 
-  <!-- GZOSP -->
+  <!-- LegendROM -->
   <project path="manifest" name="manifest" remote="gzosp" />
   <project path="build/make" name="build" remote="gzosp" >
     <copyfile src="core/root.mk" dest="Makefile" />
