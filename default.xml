@@ -534,10 +534,10 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- GZOSP CAF manifest -->
-  <include name="gzosp_default.xml" />
+  <!-- LegendROM CAF manifest -->
+  <include name="legendrom_default.xml" />
 
-  <!-- GZOSP CAF manifest -->
+  <!-- LegendROM CAF manifest -->
   <include name="caf_default.xml" />
 
 </manifest>
